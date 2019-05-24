@@ -102,6 +102,16 @@ img {
         flex-direction: column;
         width: 100%;
     }
+    #section-c div {
+        padding: 40px;
+        width: 100%;
+    }
+
+    #showcase p {
+        color: #fff;
+        font-size: 30px;
+    }
+
     img {
         width: 98%;
         height: 90%;

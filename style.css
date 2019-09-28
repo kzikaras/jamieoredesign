@@ -21,6 +21,15 @@ img {
     padding: 400px;
 }
 
+.contain {
+    text-align: center;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;    
+}
+
 #showcase {
     background-image: url('showcase.jpg');
     background-size: cover;
